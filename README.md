@@ -64,4 +64,25 @@ YouTube](https://www.youtube.com/user/dlgoodlcd/featured)
 - [![image](https://user-images.githubusercontent.com/57305534/199913565-90288e94-cb4d-49b5-b2cc-a37f75282cd4.png)
 Facebook](https://www.facebook.com/GoodispalyEpaper)
 - [![image](https://user-images.githubusercontent.com/57305534/199913903-d2834fd4-e0dc-4cfd-b2c2-3d5fac0902da.png)
-GoodDisplay Wiki    [Later on we shall have a formal Wiki page]](https://www.eink-display.com/news/54.html)
+GoodDisplay Wiki    [Later on we shall have a formal Wiki page]](https://www.eink-display.com/news/54.html)<br/>
+
+
+<br/>
+
+
+
+# Vendor Shops
+[![image](https://ozrobotics.com/wp-content/uploads/2019/10/OzRobotics-2019.png)
+OZ Robotics Verified](https://ozrobotics.com/vendors/gooddisplay/)<br/> 
+
+<br/>
+
+
+
+
+
+
+[![image](https://assets.goodereader.com/blog/uploads/images/2022/10/06041513/goodeareader-logo-final-750x150.png.webp)
+GoodEreader Verified](https://goodereader.com/blog/vendor/epaperdisplay-eink-goodisplay)<br/> 
+
+
