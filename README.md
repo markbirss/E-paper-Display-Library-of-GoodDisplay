@@ -9,6 +9,14 @@ Please refer to the directory above (which is as same as the product catalog arr
 And we will update the files with LOG so you will know, oh, you guys have made some change to the codes.<br/>
 AND WE WELCOME YOU JOINING US IN THIS COMMUNITY, TOGETHER, WE BETTER OUR WORK AND CONTINUE THE GOOD SERVICE FOR OUR FRIENDS!!!<br/>
 
+<br/>
+
+YOU CAN GO DIRECTLY TO THOSE FOLDERS FOR THE EXAMPLE CODE WE PROVIDE WITH:<br/>
+https://github.com/GoodDisplay/E-paper-Display-Library-of-GoodDisplay/tree/main/Monochrome_E-paper-Display<br/>
+https://github.com/GoodDisplay/E-paper-Display-Library-of-GoodDisplay/tree/main/Tri-Color_E-paper-Display<br/>
+https://github.com/GoodDisplay/E-paper-Display-Library-of-GoodDisplay/tree/main/Color_E-paper-Display<br/>
+
+
 
 
 # [Our comprehensive development kits](https://www.good-display.com/product/53/) 
