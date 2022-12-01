@@ -35,7 +35,7 @@ void PIC_display_Clear(void);
 
 
 
-
+//Width and height defined are not used in this demo, plz don't mind. The actual display resolution is 800x480.
 #define EPD_WIDTH   600
 #define EPD_HEIGHT  448
 
