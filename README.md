@@ -3,6 +3,12 @@
 #  👋 Howdy~! We have a new Github library for our E-paper products finally!
 
 
+## SALES SPECIAL OFFER:
+https://goodisplay.aliexpress.com/store/top-rated-products/1100401572.html?spm=a2g0o.store_pc_saleItems.pcShopHead_10835517.3
+
+<br/>Buying goods on AliExpress is very good bargain!!! <br/>
+
+
 <br/>
 Please refer to the directory above (which is as same as the product catalog arranged our on our official site)<br/>
 <br/>We will list every model supported by this library on STM32/ArduinoUNO/ESP32-ArduinoIDE/ESP8266-ArduinoIDE<br/>
