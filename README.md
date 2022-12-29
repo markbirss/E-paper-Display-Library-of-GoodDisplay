@@ -111,3 +111,22 @@ OZ Robotics Verified](https://ozrobotics.com/vendors/gooddisplay/)<br/>
 GoodEreader Verified](https://goodereader.com/blog/vendor/epaperdisplay-eink-goodisplay)<br/> 
 
 
+# E-PAPER PRODUCTS OPERATION INSTRUCTION 
+
+<br/>
+电子纸使用注意事项
+<br/>
+
+<br/>1、黑白红三色产品建议在使用中需要每24小时必须刷新一次，为了保证显示效果建议每1个月再进行一次全黑-全白清屏操作。<br/>
+<br/>2、黑白黄三色产品因E Ink film原因，残影比黑白红电子纸要严重一些，建议每24小时必须刷新一次；每七天(一周)再进行至少一次全黑-全白清屏操作。<br/>
+<br/>3、价签产品在室内使用，TFT背板为4 Mask、无防UV的设计，故价签模组不能在户外太阳光下使用，否则会颜色显示异常。产品在阳光直射下刷新出现异常后，请拿到室内静止保持30分钟，再进行全黑-全白清屏后重置；<br/>
+<br/>4、支持局部刷新的电子纸产品在进入Deep-sleep后，Reset重启后的第一次刷新需使用全刷流程进行驱动后才可以进行局刷操作；<br/>
+<br/>5、局部刷新使用需满足10次局刷、1次全刷的方式，因局刷的驱动波形电荷不守恒，故需要全刷进行电荷平衡以此来保证屏幕的寿命；<br/>
+
+<br/>
+Precautions for using electronic paper<br/>
+<br/>1. Black, white and red three-color products are recommended to be refreshed every 24 hours during use. In order to ensure the display effect, it is recommended to perform a full black-full white clearing operation every one month.<br/>
+<br/>2. Due to the E Ink film of black, white and yellow products, afterimages are more serious than black, white and red electronic paper. It is recommended to refresh every 24 hours; every seven days (one week) to perform at least one full black-full white screen clearing operation.<br/>
+<br/>3. The price tag product is used indoors. The TFT backplane is 4 Mask and has no UV protection design. Therefore, the price tag module cannot be used outdoors under sunlight, otherwise the color display will be abnormal. After the product refreshes abnormally under direct sunlight, please take it indoors and keep it still for 30 minutes, and then reset it after clearing the screen from all black to all white;<br/>
+<br/>4. After entering Deep-sleep, the electronic paper products that support partial refresh need to use the full refresh process to drive the first refresh after the Reset restart before performing the partial refresh operation;<br/>
+<br/>5. The use of partial refresh needs to meet the method of 10 partial refreshes and 1 full refresh. Because the charge of the driving waveform of the partial refresh is not conserved, it is necessary to balance the charge of the full refresh to ensure the life of the screen;<br/>
