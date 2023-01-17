@@ -41,18 +41,6 @@ All the boards for STM32/ArduinoUNO/ESP32/ESP8266 have undergone an upgradation 
 So for any of our loyal supportors both old and new, if you happened to buy one of the new board from us (2022 the latter half),
 you will then need to use the newest example code for each EPD model. And that's why we encourage you to use this Library!<br/>
 
-DEVELOPMENT KITS GALLERY
----------------------------------------------------------------------------
-<br/>
-<img src="https://img202.yun300.cn/repository/image/aa904baa-1c91-4abb-9023-5ef7cebf4e2d.jpg?tenantId=160096&viewType=1" />
-<br/>
-<img src="https://img202.yun300.cn/repository/image/bfec3704-5a4b-4379-b772-795b7de5621b.jpg?tenantId=160096&viewType=1" />
-<br/>
-<img src="https://img202.yun300.cn/repository/image/0b503c16-583e-4d9b-b0ed-a98fd1ea4041.jpg?tenantId=160096&viewType=1" />
-<br/>
-<img src="https://img202.yun300.cn/repository/image/8c5ebf97-5c6b-41bf-9b90-2b5b47404cd2.jpg?tenantId=160096&viewType=1" />
-
-
 <br/>
 
 #  🙌 Contribute and make our community a better place!!!
@@ -131,9 +119,3 @@ Precautions for using electronic paper<br/>
 <br/>4. After entering Deep-sleep, the electronic paper products that support partial refresh need to use the full refresh process to drive the first refresh after the Reset restart before performing the partial refresh operation;<br/>
 <br/>5. The use of partial refresh needs to meet the method of 10 partial refreshes and 1 full refresh. Because the charge of the driving waveform of the partial refresh is not conserved, it is necessary to balance the charge of the full refresh to ensure the life of the screen;<br/>
 
-
-<br/>
-
-# GDEQ NEW SERIES!!!
-## GDEQ0426T82 DEMO VIDEO
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SSD1677 4.26 inch E-paper display<br>480x800<br>DPI 219<br>Will also come soon. <br>For sure I have a list of name to send samples!!!!! <a href="https://t.co/Nmprz1S9TK">pic.twitter.com/Nmprz1S9TK</a></p>&mdash; Frrrrrreddie (@Frrrrrrreddie) <a href="https://twitter.com/Frrrrrrreddie/status/1613083933641699329?ref_src=twsrc%5Etfw">January 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
