@@ -130,3 +130,10 @@ Precautions for using electronic paper<br/>
 <br/>3. The price tag product is used indoors. The TFT backplane is 4 Mask and has no UV protection design. Therefore, the price tag module cannot be used outdoors under sunlight, otherwise the color display will be abnormal. After the product refreshes abnormally under direct sunlight, please take it indoors and keep it still for 30 minutes, and then reset it after clearing the screen from all black to all white;<br/>
 <br/>4. After entering Deep-sleep, the electronic paper products that support partial refresh need to use the full refresh process to drive the first refresh after the Reset restart before performing the partial refresh operation;<br/>
 <br/>5. The use of partial refresh needs to meet the method of 10 partial refreshes and 1 full refresh. Because the charge of the driving waveform of the partial refresh is not conserved, it is necessary to balance the charge of the full refresh to ensure the life of the screen;<br/>
+
+
+<br/>
+
+# GDEQ NEW SERIES!!!
+## GDEQ0426T82 DEMO VIDEO
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SSD1677 4.26 inch E-paper display<br>480x800<br>DPI 219<br>Will also come soon. <br>For sure I have a list of name to send samples!!!!! <a href="https://t.co/Nmprz1S9TK">pic.twitter.com/Nmprz1S9TK</a></p>&mdash; Frrrrrreddie (@Frrrrrrreddie) <a href="https://twitter.com/Frrrrrrreddie/status/1613083933641699329?ref_src=twsrc%5Etfw">January 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
