@@ -83,11 +83,6 @@ GoodDisplay Wiki    [Later on we shall have a formal Wiki page]](https://www.ein
 <br/>
 
 
-
-[![image](https://assets.goodereader.com/blog/uploads/images/2022/10/06041513/goodeareader-logo-final-750x150.png.webp)
-GoodEreader Verified](https://goodereader.com/blog/vendor/epaperdisplay-eink-goodisplay)<br/> 
-
-
 # E-PAPER PRODUCTS OPERATION INSTRUCTION 
 
 <br/>
